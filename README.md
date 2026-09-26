@@ -17,9 +17,8 @@ This page hosts **four repositories**, each powering a different part of the Tec
 
 | | |
 |---|---|
-| 🔗 **Link** | [[Techno-Sahotsava-Landing](https://github.com/techno-sahotsava/Techno-Sahotsava-landing) |
+| 🔗 **Link** | [Techno-Sahotsava-Landing](https://github.com/techno-sahotsava/Techno-Sahotsava-landing) |
 | 🎯 **Purpose** | This repo contains the source code of Landing Page . It is the gateway to enter into college representative Portal and admin Portal |
-| ✅ **Status** | Active |
 
 </details>
 
@@ -30,9 +29,8 @@ This page hosts **four repositories**, each powering a different part of the Tec
 
 | | |
 |---|---|
-| 🔗 **Link** | [[Techno-Sahotsava-User-Registration](https://github.com/techno-sahotsava/Techno-Sahotsava-User-Registration)](#) |
+| 🔗 **Link** | [Techno-Sahotsava-User-Registration](https://github.com/techno-sahotsava/Techno-Sahotsava-User-Registration) |
 | 🎯 **Purpose** | This repo contains the source code of College Representative portal  |
-| ✅ **Status** | Active |
 
 </details>
 
@@ -43,9 +41,8 @@ This page hosts **four repositories**, each powering a different part of the Tec
 
 | | |
 |---|---|
-| 🔗 **Link** | [[Techno-Sahotsava-Admin]](https://github.com/techno-sahotsava/Techno-Sahotsava-Admin)(#) |
+| 🔗 **Link** | [Techno-Sahotsava-Admin](https://github.com/techno-sahotsava/Techno-Sahotsava-Admin) |
 | 🎯 **Purpose** | This repo contains the source code of Admin portal |
-| ✅ **Status** | Active |
 
 </details>
 
@@ -56,9 +53,8 @@ This page hosts **four repositories**, each powering a different part of the Tec
 
 | | |
 |---|---|
-| 🔗 **Link** | [[Techno-Sahotsava-Server]](https://github.com/techno-sahotsava/Techno-Sahotsava-Server)(#) |
+| 🔗 **Link** | [Techno-Sahotsava-Server](https://github.com/techno-sahotsava/Techno-Sahotsava-Server) |
 | 🎯 **Purpose** | This repo contains the source code of Server and all the backend connectivity  |
-| ✅ **Status** | Active |
 
 </details>
 

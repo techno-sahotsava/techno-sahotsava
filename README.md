@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="assets/logo.png" alt="Techno Sahotsava Logo" width="220">
-
 # Techno Sahotsava
 
 ### [One-line tagline — e.g. "The official tech fest of Techno India University"]

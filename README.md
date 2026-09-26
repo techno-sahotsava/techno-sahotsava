@@ -6,12 +6,6 @@ Welcome to the Techno Sahotsava GitHub page — home to the core repositories th
 
 ---
 
-## 📖 About
-
-The Cultural Association Techno India University, West Bengal
-
----
-
 ## 🗂️ Repositories
 
 This page hosts **four repositories**, each powering a different part of the Techno Sahotsava registration ecosystem.

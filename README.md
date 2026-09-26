@@ -17,7 +17,7 @@ This page hosts **four repositories**, each powering a different part of the Tec
 
 | | |
 |---|---|
-| 🔗 **Link** | [[Techno-Sahotsava-Landing](https://github.com/techno-sahotsava/Techno-Sahotsava-landing)](#) |
+| 🔗 **Link** | [[Techno-Sahotsava-Landing](https://github.com/techno-sahotsava/Techno-Sahotsava-landing) |
 | 🎯 **Purpose** | This repo contains the source code of Landing Page . It is the gateway to enter into college representative Portal and admin Portal |
 | ✅ **Status** | Active |
 

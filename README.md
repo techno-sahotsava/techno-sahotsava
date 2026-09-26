@@ -1,16 +1,8 @@
-<div align="center">
+# 🚀 Techno Sahotsava
 
-# Techno Sahotsava
+> The Official Tech Fest GitHub Page
 
-### [One-line tagline — e.g. "The official tech fest of Techno India University"]
-
-[![GitHub](https://img.shields.io/badge/Org-Techno%20Sahotsava-blue)](#)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](#)
-[![Status](https://img.shields.io/badge/Status-Active-brightgreen)](#)
-
-[Website](#) · [Instagram](#) · [LinkedIn](#) · [Contact](#)
-
-</div>
+Welcome to the Techno Sahotsava GitHub page — home to the core repositories that power our fest, from the event website to backend systems and internal tools.
 
 ---
 
@@ -26,57 +18,71 @@
 
 ## 🗂️ Repositories
 
-This organization / page hosts **four repositories**, each serving a distinct part of the Techno Sahotsava ecosystem.
+This page hosts **four repositories**, each powering a different part of the Techno Sahotsava ecosystem.
 
-### 1. [Repo Name 1](#)
-[![Repo](https://img.shields.io/badge/repo-view-blue)](#)
+<details open>
+<summary><b>1️⃣ Repo Name 1</b></summary>
 
-| | |
-|---|---|
-| **Purpose** | [What this repo does] |
-| **Tech Stack** | [e.g. React, Node.js, MongoDB] |
-| **Status** | [Active / Maintenance / Archived] |
-
-[One or two sentences describing key features]
-
----
-
-### 2. [Repo Name 2](#)
-[![Repo](https://img.shields.io/badge/repo-view-blue)](#)
+<br>
 
 | | |
 |---|---|
-| **Purpose** | [What this repo does] |
-| **Tech Stack** | [e.g. Python, Flask, PostgreSQL] |
-| **Status** | [Active / Maintenance / Archived] |
+| 🔗 **Link** | [Repo Name 1](#) |
+| 🎯 **Purpose** | [What this repo does] |
+| 🛠️ **Tech Stack** | [e.g. React, Node.js, MongoDB] |
+| ✅ **Status** | Active |
 
 [One or two sentences describing key features]
 
----
+</details>
 
-### 3. [Repo Name 3](#)
-[![Repo](https://img.shields.io/badge/repo-view-blue)](#)
+<details open>
+<summary><b>2️⃣ Repo Name 2</b></summary>
+
+<br>
 
 | | |
 |---|---|
-| **Purpose** | [What this repo does] |
-| **Tech Stack** | [e.g. Next.js, Tailwind CSS] |
-| **Status** | [Active / Maintenance / Archived] |
+| 🔗 **Link** | [Repo Name 2](#) |
+| 🎯 **Purpose** | [What this repo does] |
+| 🛠️ **Tech Stack** | [e.g. Python, Flask, PostgreSQL] |
+| ✅ **Status** | Active |
 
 [One or two sentences describing key features]
 
----
+</details>
 
-### 4. [Repo Name 4](#)
-[![Repo](https://img.shields.io/badge/repo-view-blue)](#)
+<details open>
+<summary><b>3️⃣ Repo Name 3</b></summary>
+
+<br>
 
 | | |
 |---|---|
-| **Purpose** | [What this repo does] |
-| **Tech Stack** | [e.g. Firebase, Express] |
-| **Status** | [Active / Maintenance / Archived] |
+| 🔗 **Link** | [Repo Name 3](#) |
+| 🎯 **Purpose** | [What this repo does] |
+| 🛠️ **Tech Stack** | [e.g. Next.js, Tailwind CSS] |
+| ✅ **Status** | Active |
 
 [One or two sentences describing key features]
+
+</details>
+
+<details open>
+<summary><b>4️⃣ Repo Name 4</b></summary>
+
+<br>
+
+| | |
+|---|---|
+| 🔗 **Link** | [Repo Name 4](#) |
+| 🎯 **Purpose** | [What this repo does] |
+| 🛠️ **Tech Stack** | [e.g. Firebase, Express] |
+| ✅ **Status** | Active |
+
+[One or two sentences describing key features]
+
+</details>
 
 ---
 
